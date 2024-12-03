@@ -26,4 +26,4 @@
 | East China Normal University Shanghai	| > 90 % |
 
 ## Chinese University Ranking (other)
-Provided by UniRank at [4icu](https://www.4icu.org/cn/ "UniRank by 4icu").
+Provided by UniRank at [4icu](https://www.4icu.org/cn/ "UniRank by 4icu"){:target="_blank"}
